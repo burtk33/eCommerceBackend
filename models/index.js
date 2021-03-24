@@ -23,22 +23,5 @@ Tag.belongsToMany(Product,{
   as: 'products'
 });
 
-Tag.hasMany(Product,{
-  through:{
-    model: ProductTag,
-    unique: false
-  },
-  as: 'products'
-});
-
-Product.hasMany(Tag,{
-  through:{
-    model: ProductTag,
-    unique: false
-  },
-  as: 'tags'
-});
-
-
 
 module.exports = { Product, Category, ProductTag, Tag };
