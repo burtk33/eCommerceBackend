@@ -16,9 +16,9 @@ A mySQL database application with API routes to create, update, delete and post 
 ## Installation Instructions
 Requires Node.js and node package modules sequelize, dotenv, and express
 
-[Installation and usage walkthrough video](https://www.youtube.com/watch?v=hI1enDYCnyo)
+![screenshot](/assets/images/screenshot.png)
 
-![screenshot](./assets/images/screenshot.png)
+[Installation and usage walkthrough video](https://www.youtube.com/watch?v=hI1enDYCnyo)
 
 ## Usage
 Used as a back end database for product management
