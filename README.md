@@ -18,7 +18,7 @@ Requires Node.js and node package modules sequelize, dotenv, and express
 
 [Installation and usage walkthrough video](https://www.youtube.com/watch?v=hI1enDYCnyo)
 
-![Screenshot](./assets/images/screenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 ## Usage
 Used as a back end database for product management
